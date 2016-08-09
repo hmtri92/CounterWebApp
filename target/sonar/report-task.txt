@@ -1,0 +1,5 @@
+projectKey=com.mkyong:CounterWebApp
+serverUrl=http://20.203.153.48:9000
+dashboardUrl=http://20.203.153.48:9000/dashboard/index/com.mkyong:CounterWebApp
+ceTaskId=AVZtRrVk9mvHINdk_DMV
+ceTaskUrl=http://20.203.153.48:9000/api/ce/task?id=AVZtRrVk9mvHINdk_DMV
